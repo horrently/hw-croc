@@ -13,8 +13,8 @@ public class ChessCoordinate {
         if (!isValidCoord(x) || !isValidCoord(y)) {
             throw new IllegalArgumentException("Invalid coordinates");
         }
-        setX(x);
-        setY(y);
+        this.x = x;
+        this.y = y;
     }
     
     public int getX() {
@@ -58,7 +58,7 @@ public class ChessCoordinate {
         ChessCoordinate cell1 = new ChessCoordinate(1, 1);
         ChessCoordinate cell2 = new ChessCoordinate(7, 7);
         ChessCoordinate cell3 = new ChessCoordinate(0, 0);
-        ChessCoordinate cell4 = new ChessCoordinate(5, 8);
+        ChessCoordinate cell4 = new ChessCoordinate(5, 8); // IllegalArgumentException
 
         System.out.println(cell1); // b2
         System.out.println(cell2);
