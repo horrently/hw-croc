@@ -1,5 +1,5 @@
 /**
-* Javadoc
+*
 *
 * @author Dmitriy Cherenkov
 */
