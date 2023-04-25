@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+  <sale id="1" seller_id="1" product_id="1" quantity="2" date="2023-04-23"/>
+  <sale id="2" seller_id="1" product_id="2" quantity="10" date="2023-04-24"/>
+  <sale id="3" seller_id="2" product_id="1" quantity="1" date="2023-04-22"/>
+  <sale id="4" seller_id="2" product_id="3" quantity="5" date="2023-04-25"/>
+  <sale id="5" seller_id="3" product_id="2" quantity="4" date="2023-04-21"/>
+  <sale id="6" seller_id="3" product_id="4" quantity="3" date="2023-04-24"/>
+</sales>

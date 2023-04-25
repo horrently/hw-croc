@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sellers>
+  <seller id="1">
+    <last_name>Иванов</last_name>
+    <first_name>Иван</first_name>
+  </seller>
+  <seller id="2">
+    <last_name>Охлабыстин</last_name>
+    <first_name>Илья</first_name>
+  </seller>
+  <seller id="3">
+    <last_name>Седов</last_name>
+    <first_name>Андрей</first_name>
+  </seller>
+</sellers>

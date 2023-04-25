@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="1">
+    <name>Книга</name>
+  </product>
+  <product id="2">
+    <name>Ручка</name>
+  </product>
+  <product id="3">
+    <name>Бумага</name>
+  </product>
+  <product id="4">
+    <name>Карандаш</name>
+  </product>
+</products>

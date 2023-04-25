@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <item seller_id="1" product_id="1" price="500" quantity="10"/>
+  <item seller_id="1" product_id="2" price="50" quantity="100"/>
+  <item seller_id="2" product_id="1" price="550" quantity="5"/>
+  <item seller_id="2" product_id="3" price="200" quantity="20"/>
+  <item seller_id="3" product_id="2" price="60" quantity="50"/>
+  <item seller_id="3" product_id="4" price="30" quantity="30"/>
+</inventory>
